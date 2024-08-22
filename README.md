@@ -103,15 +103,15 @@ Northwestern AI Bootcamp - Module 1 Challenge
 
 ## Sources
 
-* [Formlabs](<https://www.ivo.ai/case-studies/formlabs>)
-* [Geotab](<https://www.ivo.ai/case-studies/geotab>)
-* [Quora](<https://www.ivo.ai/case-studies/quora>)
-* [McCollister's](<https://www.ivo.ai/case-studies/mccollisters>)
-* https://www.ivo.ai/blog/our-latest-company-milestone
-* https://www.ivo.ai/product
-* https://www.spellbook.legal/
-* https://www.crunchbase.com/organization/latch-2f35
-* https://finance.yahoo.com/news/ivo-generative-ai-legal-contracting-100000583.html?guccounter=1
-* https://blog.gramener.com/top-generative-ai-trends/
-* https://www.forbes.com/sites/janakirammsv/2024/01/02/exploring-the-future-5-cutting-edge-generative-ai-trends-in-2024/
-* https://www.jitterbit.com/blog/what-is-software-integration/
+* [Formlabs Case Study](<https://www.ivo.ai/case-studies/formlabs>)
+* [Geotab Case Study](<https://www.ivo.ai/case-studies/geotab>)
+* [Quora Case Study](<https://www.ivo.ai/case-studies/quora>)
+* [McCollister's Case Study](<https://www.ivo.ai/case-studies/mccollisters>)
+* [Ivo's Milestone](<https://www.ivo.ai/blog/our-latest-company-milestone>)
+* [Ivo's Product](<https://www.ivo.ai/product>)
+* [Ivo's Main Competitor: Spellbook](<https://www.spellbook.legal>)
+* [Ivo's Crunchbase Profile](<https://www.crunchbase.com/organization/latch-2f35>)
+* [Yahoo News Article on Ivo](<https://finance.yahoo.com/news/ivo-generative-ai-legal-contracting-100000583.html?guccounter=1>)
+* [Top Generative AI Trends](<https://blog.gramener.com/top-generative-ai-trends>)
+* [Forbes' Generative AI trends](<https://www.forbes.com/sites/janakirammsv/2024/01/02/exploring-the-future-5-cutting-edge-generative-ai-trends-in-2024>)
+* [Software Integrations](<https://www.jitterbit.com/blog/what-is-software-integration>)
