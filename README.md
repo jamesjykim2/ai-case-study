@@ -32,7 +32,7 @@ Northwestern AI Bootcamp - Module 1 Challenge
 * A lot of Ivo's competitors offers Contract Lifecycle Management (CLM) solutions vs a point-solution that Ivo offers. So while there are some advantages a CLM solution provides because it focuses on the whole contract lifecycle, because Ivo directly focuses on the contract review aspect of the lifecylce, Ivo's automations, accuracy, and capabailities will be much better than their CLM solution competitors. One of Ivo's main competitors is Spellbook.legal, which has a platform and solution that is most comparable to Ivo's. Ivo's biggest advantages are they have more native integrations their customers can utilize and integrate directly with other tools and softwares, like Salesforce, they might be using. Also, Ivo is more customizable for their customers to utilize Ivo's AI tool to their direct needs relevant to their specific use case. 
 
 **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
-**Here is their current tech stack:**
+* **Here is their current tech stack:**
 * **Accord Software, Inc.**: For marketing and sales insights to increase engagament and conversion rates. 
 * **Clearbit**: Marketing insights around website activity. Being able to understand the different companies or individuals that might be on the website so they can target and understand the personas that are interested in what they might have to offer. 
 * **HubSpot**: Their Customer Relationship Management (CRM) solution. Where they keep all their potential, active, and past customers data like their contact information, birthday, etc. 
