@@ -103,10 +103,10 @@ Northwestern AI Bootcamp - Module 1 Challenge
 
 ## Sources
 
-* [<Formlabs>](<https://www.ivo.ai/case-studies/formlabs>)
-* [<Geotab>](<https://www.ivo.ai/case-studies/geotab>)
-* [<Quora>](<https://www.ivo.ai/case-studies/quora>)
-* [<McCollister's>](<https://www.ivo.ai/case-studies/mccollisters>)
+* [Formlabs](<https://www.ivo.ai/case-studies/formlabs>)
+* [Geotab](<https://www.ivo.ai/case-studies/geotab>)
+* [Quora](<https://www.ivo.ai/case-studies/quora>)
+* [McCollister's](<https://www.ivo.ai/case-studies/mccollisters>)
 * https://www.ivo.ai/blog/our-latest-company-milestone
 * https://www.ivo.ai/product
 * https://www.spellbook.legal/
